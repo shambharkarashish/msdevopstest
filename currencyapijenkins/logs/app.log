@@ -1,0 +1,65 @@
+2020-08-20 01:57:57,908 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 01:58:19,328 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 26.094 seconds (JVM running for 28.325)
+2020-08-20 02:01:01,971 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 02:01:23,559 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 26.459 seconds (JVM running for 28.516)
+2020-08-20 09:24:06,615 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 09:24:35,340 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 33.806 seconds (JVM running for 36.078)
+2020-08-20 09:25:55,185 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 09:26:24,239 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 34.613 seconds (JVM running for 36.001)
+2020-08-20 09:33:09,866 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 09:33:22,769 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 15.429 seconds (JVM running for 16.184)
+2020-08-20 09:39:26,132 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 09:39:40,026 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 16.375 seconds (JVM running for 17.197)
+2020-08-20 09:51:32,692 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 09:51:48,468 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 18.676 seconds (JVM running for 19.648)
+2020-08-20 10:51:22,202 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 10:51:40,080 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 21.033 seconds (JVM running for 22.055)
+2020-08-20 10:52:00,119 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 10:52:01,501 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 10:52:11,853 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 16.457 seconds (JVM running for 53.827)
+2020-08-20 10:52:14,305 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 18.294 seconds (JVM running for 3645.484)
+2020-08-20 18:05:53,504 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 18:06:24,303 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 36.91 seconds (JVM running for 39.836)
+2020-08-20 18:08:31,613 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-20 18:08:57,488 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 31.542 seconds (JVM running for 33.006)
+2020-08-21 11:00:27,256 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-08-21 11:00:45,512 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] Started CurrencyApiApplicationTests in 21.418 seconds (JVM running for 23.708)
+2020-08-21 11:02:22,019 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-08-21 11:02:39,689 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] Started CurrencyApiApplicationTests in 21.451 seconds (JVM running for 23.399)
+2020-08-21 11:04:46,615 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-21 11:05:07,960 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 26.194 seconds (JVM running for 39.067)
+2020-08-21 11:12:08,266 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-21 11:12:29,196 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 25.693 seconds (JVM running for 37.752)
+2020-08-21 11:17:45,070 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-21 11:18:08,182 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 27.843 seconds (JVM running for 40.799)
+2020-08-21 11:21:37,947 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-21 11:22:05,163 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 32.346 seconds (JVM running for 45.505)
+2020-08-21 11:23:54,982 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-21 11:24:28,170 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 38.308 seconds (JVM running for 53.689)
+2020-09-23 20:23:33,536 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-09-23 20:24:10,945 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 46.793 seconds (JVM running for 90.332)
+2020-10-14 10:02:09,440 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-10-14 10:02:35,825 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 32.08 seconds (JVM running for 52.667)
+2020-10-14 10:04:31,081 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Starting CurrencyApiApplication on DESKTOP-55AGI0I with PID 10464 (F:\boainter2020\currencyapi\target\classes started by Balasubramaniam in F:\boainter2020\currencyapi)
+2020-10-14 10:04:31,088 DEBUG com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-10-14 10:04:31,089 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-10-14 10:04:50,056 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 20.023 seconds (JVM running for 33.212)
+2020-10-14 10:06:09,054 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Starting CurrencyApiApplication on DESKTOP-55AGI0I with PID 19244 (F:\boainter2020\currencyapi\target\classes started by Balasubramaniam in F:\boainter2020\currencyapi)
+2020-10-14 10:06:09,059 DEBUG com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-10-14 10:06:09,060 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-10-14 10:06:21,725 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 13.139 seconds (JVM running for 14.046)
+2020-10-14 10:07:22,059 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Starting CurrencyApiApplication on DESKTOP-55AGI0I with PID 11064 (F:\boainter2020\currencyapi\target\classes started by Balasubramaniam in F:\boainter2020\currencyapi)
+2020-10-14 10:07:22,063 DEBUG com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-10-14 10:07:22,064 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-10-14 10:07:32,502 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 10.963 seconds (JVM running for 11.96)
+2020-11-08 19:40:05,159 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Starting CurrencyApiApplication on DESKTOP-55AGI0I with PID 5940 (F:\hsbcfresherspring2020\currencyapi\target\classes started by Balasubramaniam in F:\hsbcfresherspring2020\currencyapi)
+2020-11-08 19:40:05,165 DEBUG com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-11-08 19:40:05,165 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-11-08 19:42:00,569 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Starting CurrencyApiApplication on DESKTOP-55AGI0I with PID 12972 (F:\hsbcfresherspring2020\currencyapi\target\classes started by Balasubramaniam in F:\hsbcfresherspring2020\currencyapi)
+2020-11-08 19:42:00,573 DEBUG com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-11-08 19:42:00,573 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-11-08 19:42:10,375 INFO com.boa.trading.currencyapi.CurrencyApiApplication [restartedMain] Started CurrencyApiApplication in 10.387 seconds (JVM running for 11.868)
+2020-11-08 19:54:33,406 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] Starting CurrencyApiApplicationTests on DESKTOP-55AGI0I with PID 20196 (started by Balasubramaniam in F:\hsbcfresherspring2020\currencyapi)
+2020-11-08 19:54:33,411 DEBUG com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-11-08 19:54:33,412 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-11-08 19:54:40,865 INFO com.boa.trading.currencyapi.CurrencyApiApplicationTests [main] Started CurrencyApiApplicationTests in 7.753 seconds (JVM running for 9.079)
